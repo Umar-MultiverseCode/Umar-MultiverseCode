@@ -58,8 +58,3 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=Umar-MultiverseCode&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </center>
 
-<center>
-[![](https://visitcount.itsvg.in/api?id=Umar-MultiverseCode&icon=0&color=3)](https://visitcount.itsvg.in)
-</center>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

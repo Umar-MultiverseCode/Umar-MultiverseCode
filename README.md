@@ -29,15 +29,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg"  />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Umar-MultiverseCode&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###

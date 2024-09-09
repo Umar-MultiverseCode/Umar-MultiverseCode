@@ -36,14 +36,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-MultiverseCode&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
+<br/>
+
 ## 🏆 GitHub Trophies:
-<img src="https://github-profile-trophy.vercel.app/?username=Umar-MultiverseCode&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Umar-MultiverseCode&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 ### ✍️ Random Dev Quote:
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
 ### 🔝 Top Contributed Repo:
-<img src="https://github-contributor-stats.vercel.app/api?username=Umar-MultiverseCode&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Umar-MultiverseCode&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Umar-MultiverseCode&icon=0&color=3)](https://visitcount.itsvg.in)

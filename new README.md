@@ -1,10 +1,12 @@
 # 💫 About Me:
-🌟 Basics of Python, Java, HTML & CSS, C & C++<br>
-📚 Learning Data Structures & Algorithms<br>
-🚀 Passionate about coding and always exploring new technologies
+<div align="center">
+  🌟 Basics of Python, Java, HTML & CSS, C & C++<br>
+  📚 Learning Data Structures & Algorithms<br>
+  🚀 Passionate about coding and always exploring new technologies
+</div>
 
 ## 🌐 Socials:
-<div align="left">
+<div align="center">
   <a href="https://instagram.com/u_m_a_r_74">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="35" alt="Instagram logo" />
   </a>
@@ -17,7 +19,7 @@
 </div>
 
 ## 💻 Tech Stack:
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30" alt="C logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" alt="C++ logo" />
@@ -30,13 +32,13 @@
 </div>
 
 ## 📊 GitHub Stats:
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Umar-MultiverseCode&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" alt="Umar's GitHub stats" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umar-MultiverseCode&theme=codeSTACKr&hide_border=false" alt="Umar's GitHub streak" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-MultiverseCode&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
-
-<br/>
 
 ## 🏆 GitHub Trophies:
 <div align="center">
@@ -54,6 +56,8 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Umar-MultiverseCode&icon=0&color=3)](https://visitcount.itsvg.in)
+<div align="center">
+  [![](https://visitcount.itsvg.in/api?id=Umar-MultiverseCode&icon=0&color=3)](https://visitcount.itsvg.in)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

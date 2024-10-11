@@ -8,6 +8,10 @@
 
 ## 🌐 Socials
 <center>
+  <a href="https://umarmulla.netlify.app" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internet-explorer&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo" />
+</a>
+
 <a href="https://instagram.com/u_m_a_r_74">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
 </a>

@@ -8,7 +8,7 @@
 
 ## 🌐 Socials
 <center>
-  <a href="https://umarmulla.netlify.app" target="_blank">
+ <a href="https://umarmulla.netlify.app" target="_blank" style="display:inline-block; transition: transform 0.3s;">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internet-explorer&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo" />
 </a>
 

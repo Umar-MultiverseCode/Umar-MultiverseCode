@@ -8,36 +8,37 @@
 
 ## 🌐 Socials
 <center>
- <a href="https://umarmulla.netlify.app" target="_blank" style="display:inline-block; transition: transform 0.3s;">
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internet-explorer&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo" />
-</a>
+  <a href="https://umarmulla.netlify.app" target="_blank" style="display:inline-block; transition: transform 0.3s;">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internet-explorer&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo" />
+  </a>
 
-<a href="https://www.linkedin.com/in/Umar-Mulla/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-</a>
+  <a href="https://www.linkedin.com/in/Umar-Mulla/" style="display:inline-block; transition: transform 0.3s;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
 
-<a href="https://instagram.com/u_m_a_r_74">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-</a>
+  <a href="https://instagram.com/u_m_a_r_74" style="display:inline-block; transition: transform 0.3s;">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+  </a>
 
-<a href="https://leetcode.com/u/umarmulla7700/">
-  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
-</a>
+  <a href="https://leetcode.com/u/umarmulla7700/" style="display:inline-block; transition: transform 0.3s;">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
+  </a>
 
-<a href="https://www.hackerrank.com/profile/umarmulla7700">
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank logo" />
-</a>
+  <a href="https://www.hackerrank.com/profile/umarmulla7700" style="display:inline-block; transition: transform 0.3s;">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank logo" />
+  </a>
 
-<a href="https://www.codechef.com/users/glitch_verse" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CodeChef logo" />
-</a>
+  <a href="https://www.codechef.com/users/glitch_verse" target="_blank" style="display:inline-block; transition: transform 0.3s;">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CodeChef logo" />
+  </a>
 
-<a href="https://stackoverflow.com/users/27268522/umar-mulla">
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Stack Overflow logo" />
-</a>
-<a href="mailto:umarmulla7700@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-</a>
+  <a href="https://stackoverflow.com/users/27268522/umar-mulla" style="display:inline-block; transition: transform 0.3s;">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Stack Overflow logo" />
+  </a>
+
+  <a href="mailto:umarmulla7700@gmail.com" style="display:inline-block; transition: transform 0.3s;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
 </center>
 
 ## 💻 Tech Stack

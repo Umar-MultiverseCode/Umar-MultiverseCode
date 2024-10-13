@@ -38,10 +38,7 @@
 <a href="mailto:umarmulla7700@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
 </a>
-
-
 </center>
-
 
 ## 💻 Tech Stack
 <div style="text-align: center;">
@@ -52,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" style="margin: 0 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo" style="margin: 0 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" style="margin: 0 5px;" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="kali linux logo" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="kali linux logo" style="margin: 0 5px;" />
 </div>
 
 ## 📊 GitHub Stats
@@ -76,4 +73,3 @@
 <center>
 <img src="https://github-contributor-stats.vercel.app/api?username=Umar-MultiverseCode&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </center>
-

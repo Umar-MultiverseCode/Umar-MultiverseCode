@@ -4,7 +4,7 @@
 🌟 Basics of Python, Java, HTML & CSS, C & C++<br> 
 📚 Learning Data Structures & Algorithms <br> 
 🚀 Passionate about coding and always exploring new technologies
-</center> 
+</center>  
 
 ## 🌐 Socials
 <center>

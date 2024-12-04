@@ -28,12 +28,14 @@
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GeeksforGeeks logo" />
   </a>
 
-  <a href="https://www.hackerrank.com/profile/umarmulla7700" style="display:inline-block; transition: transform 0.3s;">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank logo" />
-  </a>
+  
 
   <a href="https://www.codechef.com/users/glitch_verse" target="_blank" style="display:inline-block; transition: transform 0.3s;">
     <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CodeChef logo" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/umarmulla7700" style="display:inline-block; transition: transform 0.3s;">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank logo" />
   </a>
 
   <a href="https://stackoverflow.com/users/27268522/umar-mulla" style="display:inline-block; transition: transform 0.3s;">

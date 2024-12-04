@@ -23,6 +23,10 @@
   <a href="https://leetcode.com/u/umarmulla7700/" style="display:inline-block; transition: transform 0.3s;">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
   </a>
+  
+  <a href="https://www.geeksforgeeks.org/user/umarmuleeet/" style="display:inline-block; transition: transform 0.3s;">
+    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GeeksforGeeks logo" />
+  </a>
 
   <a href="https://www.hackerrank.com/profile/umarmulla7700" style="display:inline-block; transition: transform 0.3s;">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank logo" />
@@ -40,6 +44,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
 </center>
+
 
 ## 💻 Tech Stack
 <div style="text-align: center;">

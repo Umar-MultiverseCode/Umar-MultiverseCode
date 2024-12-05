@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
   </a>
   
-  <a href="https://www.geeksforgeeks.org/user/umarmuleeet/" style="display:inline-block; transition: transform 0.3s;">
+  <a href="https://www.geeksforgeeks.org/user/umarmulla/" style="display:inline-block; transition: transform 0.3s;">
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GeeksforGeeks logo" />
   </a>
 

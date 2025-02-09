@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
  
-  <a href="https://leetcode.com/u/umarmulla7700/" style="display:inline-block; transition: transform 0.3s;">
+  <a href=" " style="display:inline-block; transition: transform 0.3s;">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
   </a>
   

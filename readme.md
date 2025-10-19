@@ -1,10 +1,12 @@
-# 💫 About Me      
+## 👨‍💻 About Me      
                
-<center>       
-🌟 Basics of Python, Java, HTML & CSS, C & C++<br>   
-📚 Learning Data Structures & Algorithms <br>   
-🚀 Passionate about coding and always exploring new technologies 
-</center>  
+<div align="center">       
+🐍 Python | ☕ Java | ⚡ C++ | 🌐 JavaScript<br>   
+🤖 Machine Learning Enthusiast<br>
+⚙️ Automation & Scripting<br>   
+📊 Data Structures & Algorithms<br>   
+🚀 Passionate about coding and building innovative solutions
+</div>
 
 ## 🌐 Socials
 <center>

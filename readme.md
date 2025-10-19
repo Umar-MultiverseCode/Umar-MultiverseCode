@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me      
                
-<div align="center">       
+<div>       
 🐍 Python | ☕ Java | ⚡ C++ | 🌐 JavaScript<br>   
 🤖 Machine Learning Enthusiast<br>
 ⚙️ Automation & Scripting<br>   

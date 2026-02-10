@@ -103,12 +103,19 @@ Backend • Automation • Cloud • Problem Solving
 
 
 
-## ✍️ Dev Quote
+<h2>✍️ Dev Quote</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" />
+<i>
+“Testing can be a very effective way to show the presence of bugs,  
+but it is hopelessly inadequate for showing their absence.”
+</i>
 </p>
 
+<p align="center">
+<b>Edsgar W. Dijkstra</b>
+</p>
 
-
-<h3 align="center">⚡ Build Daily. Learn Daily. Ship Fearlessly. ⚡</h3>
+<p align="center">
+⚡ Build Daily. Learn Daily. Ship Fearlessly. ⚡
+</p>

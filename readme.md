@@ -47,6 +47,14 @@ Focused on backend systems, automation workflows, and intelligent applications.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,linux,gcp,git,github&theme=dark" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,linux,gcp,git,github,docker,postgres,redis&theme=dark" />
+</p>
+
+<p align="center">
+  <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" />
+  <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" />
+</p>
 
 <p align="center">
 Backend • Automation • Cloud • Problem Solving
@@ -95,6 +103,9 @@ Backend • Automation • Cloud • Problem Solving
 - ✅ Consistent open source contributions  
 - ✅ Actively building real world projects  
 
+<br>
+<br>
+
 <p align="center">
 <i>
 “Testing can be a very effective way to show the presence of bugs,  
@@ -105,6 +116,8 @@ but it is hopelessly inadequate for showing their absence.”
 <p align="center">
 <b>Edsgar W. Dijkstra</b>
 </p>
+
+<br>
 
 <p align="center">
 ⚡ Build Daily. Learn Daily. Ship Fearlessly. ⚡

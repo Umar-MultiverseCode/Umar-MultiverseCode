@@ -45,7 +45,7 @@ Focused on backend systems, automation workflows, and intelligent applications.
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,linux,gcp,git,github,n8n,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,linux,gcp,git,github,docker,nginx,vercel,supabase,netlify&theme=dark" />
 </p>
 
 <p align="center">

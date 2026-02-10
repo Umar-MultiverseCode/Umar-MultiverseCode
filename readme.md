@@ -26,19 +26,12 @@ Focused on backend systems, automation workflows, and intelligent applications.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://umarmulla.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/Umar-Mulla/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://instagram.com/u_m_a_r_74">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:umarmulla7700@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://umarmulla.netlify.app">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/Umar-Mulla/">LinkedIn</a> •
+  <a href="https://instagram.com/u_m_a_r_74">Instagram</a> •
+  <a href="mailto:umarmulla7700@gmail.com">Email</a>
 </p>
+
 
 
 

@@ -10,7 +10,7 @@ I love turning ideas into scalable software.
 Focused on backend systems, automation workflows, and intelligent applications.
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -21,7 +21,7 @@ Focused on backend systems, automation workflows, and intelligent applications.
 - 🌱 Currently learning cloud, scalable systems & MLOps  
 - 🔥 Goal: Build products that solve real problems  
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -40,7 +40,7 @@ Focused on backend systems, automation workflows, and intelligent applications.
   </a>
 </p>
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -52,7 +52,7 @@ Focused on backend systems, automation workflows, and intelligent applications.
 Backend • Automation • Cloud • Problem Solving
 </p>
 
----
+
 
 ## 🔥 What I’m Working On
 
@@ -61,7 +61,7 @@ Backend • Automation • Cloud • Problem Solving
 - ☁️ Cloud deployment & scalability  
 - 🧪 Experimenting with ML models  
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -78,7 +78,7 @@ Backend • Automation • Cloud • Problem Solving
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Umar-MultiverseCode&layout=compact&theme=tokyonight"/>
 </p>
 
----
+
 
 ## 📈 Contribution Graph
 
@@ -86,7 +86,7 @@ Backend • Automation • Cloud • Problem Solving
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umar-MultiverseCode&theme=tokyo-night" />
 </p>
 
----
+
 
 ## 🏆 Highlights & Milestones
 
@@ -101,7 +101,7 @@ Backend • Automation • Cloud • Problem Solving
 
 > Agar trophy load na ho to ye normal hai, GitHub side service issue hota rehta hai.
 
----
+
 
 ## ✍️ Dev Quote
 
@@ -109,6 +109,6 @@ Backend • Automation • Cloud • Problem Solving
   <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" />
 </p>
 
----
+
 
 <h3 align="center">⚡ Build Daily. Learn Daily. Ship Fearlessly. ⚡</h3>

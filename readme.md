@@ -96,16 +96,6 @@ Backend • Automation • Cloud • Problem Solving
 - ✅ Actively building real world projects  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Umar-MultiverseCode&theme=tokyonight&row=1&column=5&margin-w=15&no-frame=true" />
-</p>
-
-> Agar trophy load na ho to ye normal hai, GitHub side service issue hota rehta hai.
-
-
-
-<h2>✍️ Dev Quote</h2>
-
-<p align="center">
 <i>
 “Testing can be a very effective way to show the presence of bugs,  
 but it is hopelessly inadequate for showing their absence.”

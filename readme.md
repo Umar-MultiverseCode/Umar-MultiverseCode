@@ -26,7 +26,7 @@ Focused on backend systems, automation workflows, and intelligent applications.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://umarmulla.netlify.app">
+  <a href="https://umarmulla.in">
     <img src="https://img.shields.io/badge/Portfolio-Website-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/Umar-Mulla/">
